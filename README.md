@@ -46,9 +46,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalechelml&show_icons=true&locale=en&layout=compact&theme=merko" alt="lalechelml" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalechelml&show_icons=true&locale=en&layout=compact&theme=merko" alt="lalechelml" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalechelml&show_icons=true&locale=en&theme=merko" alt="lalechelml" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalechelml&show_icons=true&locale=en&theme=merko" alt="lalechelml" /></p>
 
 <h3 style="text-align: center; font-weight: bold;">Mis redes</h3>
 <p align="center">
