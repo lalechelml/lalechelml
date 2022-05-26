@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalechelml&label=Profile%20views&color=000000&style=flat" alt="lalechelml" /> </p>
 
 
-<h3 style="text-align: center; font-weight: bold;">Front-end</h3>
+<h3 align="center"  style="text-align: center; font-weight: bold;">Front-end</h3>
 
 <p align="center">
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
@@ -20,7 +20,7 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<h3 style="text-align: center; font-weight: bold;">Back-end</h3>
+<h3 align="center"  style="text-align: center; font-weight: bold;">Back-end</h3>
 
 <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -29,14 +29,14 @@
  </p>
 
 
-<h3 style="text-align: center; font-weight: bold;">Databases</h3>
+<h3 align="center" style="text-align: center; font-weight: bold;">Databases</h3>
 
 <p align="center">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-<h3 style="text-align: center; font-weight: bold;">Tools</h3>
+<h3 align="center"  style="text-align: center; font-weight: bold;">Tools</h3>
 
 <p align="center">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
